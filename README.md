@@ -25,7 +25,7 @@ Uma aplicação de simulação de júri que utiliza princípios da retórica ari
 
 1. Execute a aplicação:
    ```bash
-   streamlit run src/app.py
+   streamlit run mock_trial.py
    ```
 2. Digite um tópico para debate no campo de texto
 3. Clique em "Iniciar Debate"
